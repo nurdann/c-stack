@@ -106,7 +106,7 @@ $ ./x '([)'
 ([) has at least one invalid pair
 ```
 
-Or does them in one go simply passing `.c` files to `gcc`,
+Or do them in one go by simply passing `.c` files to `gcc`,
 
 ```shell
 $ gcc -o x main.c stack.c
