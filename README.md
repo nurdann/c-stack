@@ -44,6 +44,7 @@ The stack has following operations that we will need,
 
 ```
 pushChar(stack, *c);
+pop(stack);
 char top = popChar(stack);
 char top = topChar(stack);
 ```
